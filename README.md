@@ -2,7 +2,7 @@
 This is a project that I did as a final project for the course Machine Learning with Python which is a part of IBM Data Science Professional Certificate in Coursera
 
 
-The following the final report that I got for various Classification algorithms like K-Nearest Neighbors, Decision Tree, Support Vector Machines, Logistic Regression
+The following is the final report that I got for various Classification algorithms like K-Nearest Neighbors, Decision Tree, Support Vector Machines, Logistic Regression
 
 | Algorithm          | Jaccard | F1-score | LogLoss |
 |--------------------|---------|----------|---------|
